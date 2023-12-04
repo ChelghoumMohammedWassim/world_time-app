@@ -11,3 +11,5 @@ With the help of the innovative mobile app Ziraatech-dashboard, which was create
 ![flutter](	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![World Time API](https://img.shields.io/badge/World_Time_API-%23039BE5.svg?style=for-the-badge&logo=WorldTimeAPI)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
